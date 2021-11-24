@@ -1,7 +1,6 @@
 ### Olá eu sou o Paulo Henrique M. Calderan
 - 🔭 Sou Técnico da Informação.
 - 🌱 Estudando Java;
-- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/calderanph">
