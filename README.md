@@ -10,6 +10,7 @@
   <img align="center" alt="Calderan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Calderan-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Calderan-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Calderan-Postgres" height="30" width="40" src"https://i0.wp.com/www.savepoint.blog.br/wp-content/uploads/2015/01/postgresql-logo.png?fit=610%2C280&ssl=1">
 </div>
 
 
