@@ -1,6 +1,4 @@
 ### Olá eu sou o Paulo Henrique M. Calderan
-- 🔭 Desenvolvedor Back end em Java; 
-- 🌱 Fazendo Pos graduação - Especialização em Java -  Universidade Técnologica Federal do Paraná;
 
 <div align="center">
   <a href="https://github.com/calderanph">
